@@ -1,3 +1,5 @@
+package Task0;
+
 public class Triangle implements GeometricShape{
     private double a; // first side of triangle
     private double b; // second side of triangle

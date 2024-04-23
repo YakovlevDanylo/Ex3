@@ -1,3 +1,5 @@
+package Task0;
+
 public class Square implements GeometricShape{
     private double side;
 
